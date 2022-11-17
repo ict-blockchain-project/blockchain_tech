@@ -12,3 +12,8 @@
 - fabcar: 간단한 자동차 거래 앱
 - test-network: 2개기관 2개피어 네트워크 예제
 - token: 암호화폐 구현 관현 체인코드
+
+#### fabcar 테스트
+
+1. docker 내 동작하는 네트워크 확인하기: docker ps -a / docker network ls / docker images
+2. 시작하기: ./startFabric.sh
